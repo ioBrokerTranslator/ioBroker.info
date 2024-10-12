@@ -377,7 +377,7 @@
     "graphics.name": "Name",
     "graphics.pciBus": "PCI-Bus-ID",
     "graphics.pixelDepth": "Farbtiefe",
-    "graphics.positionX": "horizontale Position ",
+    "graphics.positionX": "horizontale Position",
     "graphics.positionY": "vertikale Position",
     "graphics.powerDraw": "Stromverbrauch",
     "graphics.powerLimit": "Leistungsbegrenzung",
